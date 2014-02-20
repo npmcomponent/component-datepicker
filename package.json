@@ -1,0 +1,21 @@
+{
+  "name": "component-datepicker",
+  "description": "Datepicker ui component built on component/calendar",
+  "version": "1.0.0",
+  "keywords": [
+    "date",
+    "picker",
+    "calendar"
+  ],
+  "styles": [
+    "datepicker.css"
+  ],
+  "dependencies": {
+    "component-bind": "git://github.com/npmcomponent/component-bind.git",
+    "component-calendar": "git://github.com/npmcomponent/component-calendar.git",
+    "component-popover": "git://github.com/npmcomponent/component-popover.git",
+    "component-aurora": "git://github.com/npmcomponent/component-aurora.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git"
+  },
+  "license": "MIT"
+}

@@ -2,10 +2,10 @@
  * Module dependencies.
  */
 
-var bind = require('bind')
-  , Calendar = require('calendar')
-  , Popover = require('popover')
-  , event = require('event')
+var bind = require('component-bind')
+  , Calendar = require('component-calendar')
+  , Popover = require('component-popover')
+  , event = require('component-event')
 
 /**
  * Expose `Datepicker`.
